@@ -1,0 +1,62 @@
+How did viewing a diff between two versions of a file help you 
+see the bug that was introduced?
+
+Files Comparators are always helpful tools, specially when 
+developing and improving applications, when changing files are 
+always needed.
+
+==========
+How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+
+First of all, with giving the mindset of evolving your 
+app/program/system on tangigle and small parts/steps. 
+Second, with the experience to better debugging when inputing 
+new bugs to the code, it'd be lot easier to grab a working 
+version and finding where the bug is.
+
+==========
+What do you think are the pros and cons of manually choosing 
+when to create a commit, like you do in Git, vs having versions 
+automatically saved, like Google docs does?
+
+I rather choose the commits myself using the logical separation 
+strategy. This way, I can think myself when I might be inserting 
+bugs on the routines and making it easier to fix them.
+
+Automatically savings might get out of control as I should not 
+recall what part of the code I was working on by the time of 
+the automatic saving, plus, it could save stuff I didn't want 
+to.
+
+==========
+Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, like 
+Google Docs, treat each file separately?
+
+I really do not see why not saving multiple files. There might 
+be good reasons, but I cannot see them when programming with 
+using lots and multiple files.
+
+==========
+How can you use the commands git log and git diff to view the 
+history of files?
+
+To find release/versions of the code and compare them all for 
+whatever needed.
+
+==========
+How might using version control make you more confident to 
+make changes that could break something?
+
+That's where I'm staying since the beginning. This is the beauty 
+of version controlling and that's why it's something we need 
+to learn how to use properly.
+
+==========
+Now that you have your workspace set up, what do you want to try 
+using Git for?
+
+For building stuff to make others people's life easier/better...
+
+==========
