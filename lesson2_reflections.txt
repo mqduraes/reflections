@@ -1,0 +1,8 @@
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+
+It gives the ability to package files on any way I want them 
+to get version controlled as the Staging Area may have different 
+combinations of files and would not affect the working directory
+
+=========================
