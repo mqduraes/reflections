@@ -6,3 +6,38 @@ to get version controlled as the Staging Area may have different
 combinations of files and would not affect the working directory
 
 =========================
+How can you use the staging area to make sure you have one 
+commit per logical change?
+
+By comparing the staging area files to the working area ones and 
+to the repository ones.
+
+=========================
+What are some situations when branches would be helpful in 
+keeping your history organized? How would branches help?
+
+When you need to evolve your code from one check point to 
+additional levels, but having more than one level to explore
+
+=========================
+How do the diagrams help you visualize the branch structure?
+
+It helps to keep organized once facing a very dynamic feature 
+but also very risky.
+
+=========================
+What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+Merging files changed on each branch and we represent it that to 
+keep tracking all changes.
+
+=========================
+What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+
+Merging automatically can obviously make unwanted changes on file,
+however, if carefully and correctly used, it would save a lot of 
+time when combining two versions of the same file into just one.
+
+=========================
