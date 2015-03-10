@@ -1,1 +1,55 @@
-When would you want to create a remote repository rather than keeping all your work local?
+When would you want to create a remote repository 
+rather than keeping all your work local?
+
+1) When I need/want help from others, either to contribute 
+with ideas and improvements or to solve problems 
+I may be facing.
+
+2) When I'm done with a open source code
+
+3) When I get the reposibility to follow Carol and 
+Sarah's footsteps and give a course through Udacity =]
+
+============================================
+Why might you want to always pull changes manually 
+ather than having Git automatically stay up-to-date 
+with your remote repository?
+
+Once again, automatic stuff are cool, but may lead to 
+actions you didn't really want. I believe it's cool 
+if you're really really reaaaally regular with your updates.
+
+============================================
+Describe the differences between forks, clones, and 
+branches. When would you use one instead of another?
+
+Fork - when I want to clone online repositories to my 
+	online profile
+Clone - when I want to clone online repositories to my 
+	local machine
+Branch - still as the defitions: when I want to keep working 
+	versions safe from mistakes and still explore new stuff.
+	Also, when I want to have a checkpoint to get back to 
+	if needed.
+
+============================================
+What is the benefit of having a copy of the last known state 
+of the remote stored locally?
+
+The possibility of working offline on top of the most recent 
+versions of the files.
+
+============================================
+How would you collaborate without using Git or GitHub? What 
+would be easier, and what would be harder?
+
+Probably creating an online group or virtual disk space and 
+manage the permissions myself. One possible option is emailing
+people the project. However, on both options I'd probably need
+to know the people I'd be working with or at least have their
+email addresses.
+
+
+Commit to remove
+39e11cbcc28057b87b82b554cd60d3bf8ba4121d
+b71875ef183231279254aa9176c84e089b8f9289
